@@ -17,7 +17,7 @@ class Product extends Component {
    
 <div class="card-deck">
   <div class="card">
-  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(147).jpg"
+  <img class="card-img-top" src="https://images.pexels.com/photos/734983/pexels-photo-734983.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940"
       alt="Card image cap"/>
     <a>
       <div class="mask rgba-white-slight"></div>
@@ -32,7 +32,7 @@ class Product extends Component {
   </div>
 
   <div class="card">
-  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(147).jpg"
+  <img class="card-img-top" src="https://majalah.ottencoffee.co.id/wp-content/uploads/2017/07/Copper_Dripper.jpeg"
       alt="Card image cap"/>
     <a>
       <div class="mask rgba-white-slight"></div>
@@ -47,7 +47,7 @@ class Product extends Component {
   </div>
 
   <div class="card">
-  <img class="card-img-top" src="https://mdbootstrap.com/img/Photos/Lightbox/Thumbnail/img%20(147).jpg"
+  <img class="card-img-top" src="https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
       alt="Card image cap"/>
     <a>
       <div class="mask rgba-white-slight"></div>
