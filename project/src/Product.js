@@ -9,11 +9,11 @@ class Product extends Component {
       <div>
         <h2>Product</h2>
         <p></p>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
-          Morbi augue tortor, laoreet et nulla et, venenatis tempor elit. 
-          Nam quis nunc sapien. Integer gravida nisi eu erat semper eleifend. 
-          Etiam ullamcorper metus non enim congue, et ornare nisi auctor. 
-          Nullam at ullamcorper elit. Integer mattis vulputate pellentesque.</p>
+        <p> Hidup ini seperti "kopi" yang diciptakan dengan komposisi sedikit pahit dan sedikit manis.
+          Menciptakan berjuta inspirasi, bisa juga sebagai penenang hati di kala kenangan lama mulai menghampiri.
+          Tersedia menu spesial untuk para penikmat kopi.
+          Bukan hanya sekedar kopi, kopi disini dibuat dengan sepenuh hati.
+          </p>
    
 <div class="card-deck">
   <div class="card">
@@ -23,11 +23,11 @@ class Product extends Component {
       <div class="mask rgba-white-slight"></div>
     </a>
   <div class="card-body card-body-cascade">
-    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-utensils"></i> Culinary</h5>
-    <h4 class="font-weight-bold card-title">Cheat day inspirations</h4>
-    <p class="card-text">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit
-      laboriosam, nisi ut aliquid ex ea commodi.</p>
-    <a class="btn btn-unique">Button</a>
+    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-utensils"></i>Culinary</h5>
+    <h4 class="font-weight-bold card-title">Kopi Lemon</h4>
+    <p class="card-text">Salah satu kopi khas di cafe ini. Kopi murni yang tersaring berkali-kali.
+    tanpa gula, sehingga aman bagi penyandang diabetes dengan sedikit aroma lemon.</p>
+    <a class="btn btn-unique">Buy it</a>
   </div>
   </div>
 
@@ -39,10 +39,10 @@ class Product extends Component {
     </a>
   <div class="card-body card-body-cascade">
     <h5 class="pink-text pb-2 pt-1"><i class="fas fa-utensils"></i> Culinary</h5>
-    <h4 class="font-weight-bold card-title">Cheat day inspirations</h4>
-    <p class="card-text">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit
-      laboriosam, nisi ut aliquid ex ea commodi.</p>
-    <a class="btn btn-unique">Button</a>
+    <h4 class="font-weight-bold card-title">Coffe V60</h4>
+    <p class="card-text">Jangan mengaku pecinta kopi jika belum mencoba menu yang satu ini.
+    Pahit Kopi V60 mampu menggugah semangat bahkan di tegukan pertama.</p>
+    <a class="btn btn-unique">Buy it</a>
   </div>
   </div>
 
@@ -54,10 +54,10 @@ class Product extends Component {
     </a>
   <div class="card-body card-body-cascade">
     <h5 class="pink-text pb-2 pt-1"><i class="fas fa-utensils"></i> Culinary</h5>
-    <h4 class="font-weight-bold card-title">Cheat day inspirations</h4>
-    <p class="card-text">Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit
-      laboriosam, nisi ut aliquid ex ea commodi.</p>
-    <a class="btn btn-unique">Button</a>
+    <h4 class="font-weight-bold card-title">Coffe Latte</h4>
+    <p class="card-text">Caffe Latte adalah kopi kesukaan sejuta umat. Anda tidak hanya menikmati kopinya
+    tetapi lukisan karya barista dijamin membuat Anda baper.</p>
+    <a class="btn btn-unique">Buy it</a>
   </div>
   </div>
 
