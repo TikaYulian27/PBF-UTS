@@ -6,9 +6,15 @@ class Contact extends Component {
       return (
         <div>
           <h2>Contact</h2>
-          <p>Email: info@email.com <br />
-             Phone: 002938293089
-  </p>
+          <p></p>
+          <p2>
+            Nama    : Tika Yulianti<br />
+            Kelas   : TI-3A<br />
+            Absen   : 28<br />
+            NIM     : 1741720153<br />
+            Email   : tikayulian27@gmail.com <br />
+            Phone   : 089684848278<br />
+  </p2>
         </div>
       );
     }

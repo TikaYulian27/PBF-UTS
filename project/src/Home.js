@@ -8,6 +8,7 @@ class Home extends Component {
     return (
       <div>
         <h2>Selamat Datang</h2>
+        <p></p>
         <p>Délicioso Café menyajikan beragam menu spesialmashcksbkvsBvkbvdsB kb udbcd
             k ixaskdcahciuj
             bhcbych
