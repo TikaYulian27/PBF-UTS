@@ -1,6 +1,6 @@
 // Step 3
 // Membuat menu yang menampilkan content
-// tanpa hatus mereload seluruh halaman website
+// tanpa harus mereload seluruh halaman website
 import React, { Component } from "react";
 import { Route, NavLink, HashRouter } from "react-router-dom";
 import Home from "./Home";

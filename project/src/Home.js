@@ -31,8 +31,6 @@ class Home extends Component {
         <br></br>
         <br></br>
         <br></br>
-      
-
 
 <div class="card-deck">
     <Link to="/Product" class="black-text d-flex justify-content-left">
