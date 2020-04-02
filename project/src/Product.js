@@ -24,7 +24,7 @@ class Product extends Component {
       <div class="mask rgba-white-slight"></div>
     </a>
   <div class="card-body card-body-cascade">
-    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-utensils"></i>Culinary</h5>
+    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-utensils"></i> Price Rp 20.000</h5>
     <h4 class="font-weight-bold card-title">Kopi Lemon</h4>
     <p class="card-text">Salah satu kopi khas di cafe ini. Kopi murni yang tersaring berkali-kali.
     tanpa gula, sehingga aman bagi penyandang diabetes dengan sedikit aroma lemon.</p>
@@ -41,7 +41,7 @@ class Product extends Component {
       <div class="mask rgba-white-slight"></div>
     </a>
   <div class="card-body card-body-cascade">
-    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-utensils"></i> Culinary</h5>
+    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-utensils"></i> Price Rp 30.000</h5>
     <h4 class="font-weight-bold card-title">Coffe V60</h4>
     <p class="card-text">Jangan mengaku pecinta kopi jika belum mencoba menu yang satu ini.
     Pahit Kopi V60 mampu menggugah semangat bahkan di tegukan pertama.</p>
@@ -58,7 +58,7 @@ class Product extends Component {
       <div class="mask rgba-white-slight"></div>
     </a>
   <div class="card-body card-body-cascade">
-    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-utensils"></i> Culinary</h5>
+    <h5 class="pink-text pb-2 pt-1"><i class="fas fa-utensils"></i> Price Rp 45.000</h5>
     <h4 class="font-weight-bold card-title">Coffe Latte</h4>
     <p class="card-text">Caffe Latte adalah kopi kesukaan sejuta umat. Anda tidak hanya menikmati kopinya
     tetapi lukisan karya barista dijamin membuat Anda baper.</p>
