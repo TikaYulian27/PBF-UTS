@@ -1,10 +1,10 @@
 // Step 4
 // Membuat content dari setiap menu
 
+//import all libraries
 import React, { Component } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Product from "./Product";
- 
+import { Link } from 'react-router-dom';
  
 class Home extends Component {
   render() {
@@ -35,15 +35,10 @@ class Home extends Component {
 
 
 <div class="card-deck">
-
-    <a href="#!" class="black-text d-flex justify-content-left">
-      <a class="btn btn-black"><i class="fas fa-clone left"></i>Order here</a>
-    </a>
-
-
+    <Link to="/Product" class="black-text d-flex justify-content-left">
+      <a class="btn btn-brown"><i class="fas fa-clone left"></i>Order here</a>
+   </Link>
   </div>
-
-
   </div>
   );
 
