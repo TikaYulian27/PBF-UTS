@@ -2,6 +2,7 @@
 
 import React, { Component } from "react";
 import 'bootstrap/dist/css/bootstrap.min.css';
+import { Link } from 'react-router-dom';
  
 class Product extends Component {
   render() {
@@ -27,7 +28,11 @@ class Product extends Component {
     <h4 class="font-weight-bold card-title">Kopi Lemon</h4>
     <p class="card-text">Salah satu kopi khas di cafe ini. Kopi murni yang tersaring berkali-kali.
     tanpa gula, sehingga aman bagi penyandang diabetes dengan sedikit aroma lemon.</p>
+   
+
+    <Link to="/Contact" class="black-text d-flex justify-content-left">
     <a class="btn btn-unique">Buy it</a>
+   </Link>
   </div>
   </div>
 

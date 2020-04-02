@@ -22,8 +22,6 @@ class Main extends Component {
             <Route exact path="/" component={Home}/>
             <Route path="/Product" component={Product}/>
             <Route path="/contact" component={Contact}/>
-
-            {/* <Route path="/ProductDetail/:name" exact component={ProductDetail}></Route> */}
           </div>
         </div>
       </HashRouter>
