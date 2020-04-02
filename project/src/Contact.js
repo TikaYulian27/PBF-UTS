@@ -14,6 +14,11 @@ class Contact extends Component {
             NIM    : 1741720153<br />
             Email  : tikayulian27@gmail.com <br />
             Phone  : 089684848278<br />
+            <br></br>
+            <br></br>
+            <br></br>
+            Délicioso Café<br></br>
+          Jl. Iswahyudi No.05 Tulungagung
   </p2>
         </div>
       );
